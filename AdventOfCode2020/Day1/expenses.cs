@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Day1
 {
-    public class expenses
+    public class Expenses
     {
         public int? TwoNumbers(List<int> numbers, int targetNumber)
         {

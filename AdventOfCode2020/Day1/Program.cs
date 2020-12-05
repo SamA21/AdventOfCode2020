@@ -9,11 +9,10 @@ namespace Day1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             List<int> numbers = TextInputs.GetNumberListFromFile("Inputs\\Day1.txt", new List<int>());
             int targetNumber = 2020;
             numbers = numbers.Where(x => x <= targetNumber).ToList();//remove bigger than answer numbers    
-            expenses expenses = new expenses();
+            Expenses expenses = new Expenses();
             //part 1
             Console.WriteLine(expenses.TwoNumbers(numbers, targetNumber));
             //part 2

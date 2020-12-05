@@ -22,5 +22,19 @@ namespace Helpers
             }
             return output;
         }
+
+        public static List<string> GeStringListFromFile(string fileLocation, List<string> output)
+        {
+            FileStream fileStream = new FileStream(fileLocation, FileMode.Open);
+            using (StreamReader reader = new StreamReader(fileStream))
+            {
+                while (!reader.EndOfStream)
+                {
+                    string line = reader.ReadLine();
+                    output.Add(line.Trim());
+                }
+            }
+            return output;
+        }
     }
 }
