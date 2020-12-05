@@ -1,0 +1,17 @@
+C:\SourceCode\Other\AdventOfCode2020\Helpers\bin\Debug\netstandard2.0\Helpers.deps.json
+C:\SourceCode\Other\AdventOfCode2020\Helpers\bin\Debug\netstandard2.0\Helpers.dll
+C:\SourceCode\Other\AdventOfCode2020\Helpers\bin\Debug\netstandard2.0\Helpers.pdb
+C:\SourceCode\Other\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.AssemblyInfoInputs.cache
+C:\SourceCode\Other\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.AssemblyInfo.cs
+C:\SourceCode\Other\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.csproj.CoreCompileInputs.cache
+C:\SourceCode\Other\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.dll
+C:\SourceCode\Other\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.pdb
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\bin\Debug\netstandard2.0\Helpers.deps.json
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\bin\Debug\netstandard2.0\Helpers.dll
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\bin\Debug\netstandard2.0\Helpers.pdb
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.csprojAssemblyReference.cache
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.AssemblyInfoInputs.cache
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.AssemblyInfo.cs
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.csproj.CoreCompileInputs.cache
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.dll
+C:\SourceCode\Other\AdventOfCode2020\trunk\AdventOfCode2020\Helpers\obj\Debug\netstandard2.0\Helpers.pdb
